@@ -20,8 +20,5 @@ API utilizadas:
 Instalação:
 
 Para instalação clone o repositório e faça o npm install para as dependencias. <br>
-__________________________________________
 
-Deploy no GitHub pages pelo link:
-- https://lucas-rodrigues0.github.io/recipes-app-project/
 
