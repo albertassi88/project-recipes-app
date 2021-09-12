@@ -1,0 +1,46 @@
+.main-section {
+  margin: 0 30px
+}
+
+/* buttons and logos */
+.logo-size {
+  max-height: 45px;
+  max-width: 45px;
+  opacity: 0.9;
+}
+
+.profile-logo {
+  left: 20px;
+  position: fixed;
+  top: 10px;
+}
+
+.search-logo {
+  position: fixed;
+  right: 20px;
+  top: 10px;
+}
+
+.transparent-btn {
+  background-color: rgb(36, 36, 36, 0);
+  border-radius: 25px;
+}
+
+
+.regular-button {
+  background-color: rgb(112, 110, 110);
+  border-radius: 4px;
+  color: #e3e0de;
+  font-weight: 500;
+}
+
+.regular-button:disabled, .regular-button[ disabled ] {
+  color: rgb(144, 140, 140);
+}
+
+.share-like-btn {
+  border-radius: 20px;
+  height: 40px;
+  margin: 3px;
+  width: 40px;
+}
